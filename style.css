@@ -68,7 +68,7 @@ nav a:hover{
     color:white;
     background:
     linear-gradient(rgba(0,0,0,.55),rgba(0,0,0,.55)),
-    url("../images/bgimage.jpg");
+    url("bgimage.jpg");
 
     background-size:cover;
     background-position:center;
@@ -333,7 +333,7 @@ PAGE BANNER
     text-align:center;
     background:
     linear-gradient(rgba(0,0,0,.55),rgba(0,0,0,.55)),
-    url("../images/ac1.png");
+    url("ac1.png");
     background-size:cover;
     background-position:center;
 }
